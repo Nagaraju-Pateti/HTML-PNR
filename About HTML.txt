@@ -1,0 +1,14 @@
+
+https://www.w3.org/TR/html5-diff/
+
+In above link we can observe what are new changes came in HTML 5
+
+
+==============New changes==============
+->html5 introtude audio , video intregral parts
+->type declartion changes ex <!doctype html>
+->for vector grapics supportd with help vml ,silver light,flash in html
+in html 5 those integral part , we can achieve those with help of canvas, svg
+->new elements are introduce like footer, header,nav,figure etc
+-->new attributes are introduced like  meta,required,area,placeholder
+
